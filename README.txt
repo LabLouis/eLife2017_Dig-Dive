@@ -17,4 +17,4 @@ trackingSample: Contains
 
 To get starded, please see "userGuide.pdf".
 
-For further details, please find the README file corresponding to each module. For comments/feedback, please e-mail: mlouis_at_lifesci.ucsb.edu
+For comments/feedback, please e-mail: mlouis_at_lifesci.ucsb.edu
